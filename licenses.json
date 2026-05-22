@@ -1,10 +1,9 @@
 {
-  "AETL-TEST-0000-0000-0000": {
-    "status": "ACTIVE",
+  "aad0b080d79cbc396f1cff236486c157a99bd80437fd099845cc073466f67d21": {
+    "status": "WAITING_ACTIVATION",
     "instance_id": "",
     "activated_date": "",
-    "expiry_date": "2026-12-31",
-    "owner": "test@aetradinglab.com",
-    "notes": "Cle de test pour validation"
+    "expiry_date": "2099-12-31",
+    "notes": "Founder #1 - Owner"
   }
 }
