@@ -5,5 +5,12 @@
     "activated_date": "",
     "expiry_date": "2099-12-31",
     "notes": "#1 - Ali (Founder Owner)"
+  },
+  "5c99f7dfbea61858819d90c389238870aefd4154c747cddc27b6217cf478ec0d": {
+    "status": "WAITING_ACTIVATION",
+    "instance_id": "",
+    "activated_date": "",
+    "expiry_date": "2099-12-31",
+    "notes": "#2 - C.B (femme)"
   }
 }
