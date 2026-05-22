@@ -1,0 +1,10 @@
+{
+  "AETL-TEST-0000-0000-0000": {
+    "status": "ACTIVE",
+    "instance_id": "",
+    "activated_date": "",
+    "expiry_date": "2026-12-31",
+    "owner": "test@aetradinglab.com",
+    "notes": "Cle de test pour validation"
+  }
+}
