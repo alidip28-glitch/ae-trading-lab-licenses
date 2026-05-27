@@ -12,5 +12,12 @@
     "activated_date": "",
     "expiry_date": "2099-12-31",
     "notes": "#2 - C.B (femme)"
+  },
+"908f7f45587765222b1063ea1fd22e288ce2bec3a945be51390153c7a6c1c965": {
+    "status": "WAITING_ACTIVATION",
+    "instance_id": "",
+    "activated_date": "",
+    "expiry_date": "2099-12-31",
+    "notes": "#3"
   }
 }
